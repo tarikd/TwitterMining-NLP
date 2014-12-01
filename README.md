@@ -1,4 +1,4 @@
 TwitterMining-NLP
 =================
 
-Twitter Streaming + RabbitMQ + Language Detection NLTK
+Twitter Streaming + RabbitMQ + Language Detection NLTK + DataViz D3.js / Flask
